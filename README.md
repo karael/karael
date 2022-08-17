@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm raphael aupee</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Raphael Aupee</h1>
+<h3 align="center">A passionate developer from France</h3>
 
 - 🔭 I’m currently working for [PlayPlay](https://playplay.com/)
 
